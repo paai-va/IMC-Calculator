@@ -40,3 +40,7 @@ Os dados de referência (L, M, S por mês, 5 a 19 anos) vêm da [WHO Growth Refe
 ## Aviso
 
 Este programa é uma ferramenta educacional/informativa e não substitui avaliação médica profissional.
+
+## Aprendizado
+
+Projeto desenvolvido como parte do meu aprendizado em Programação, com Apoio de IA para orientação técnica. CHATGPT e Claude.
