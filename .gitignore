@@ -1,0 +1,20 @@
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (caso você use um futuramente)
+venv/
+env/
+.venv/
+
+# Configurações do VSCode (opcional, pessoal)
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
