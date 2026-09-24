@@ -17,7 +17,7 @@ O IMC clássico (abaixo do peso / normal / sobrepeso / obesidade) foi desenhado 
 ## Como rodar
 
 ```bash
-pip install -m requirements.txt
+python -m pip install -r requirements.txt
 python main.py
 ```
 
